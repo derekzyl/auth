@@ -1,0 +1,486 @@
+2023-08-09T20:48:49.062Z info: database securely connected  🍀🍀🍀 
+2023-08-10T00:12:59.006Z error: database not connected 💔💔
+2023-08-10T05:20:27.643Z error: database not connected 💔💔
+2023-08-10T05:36:47.797Z error: database not connected 💔💔
+2023-08-10T05:39:35.818Z error: database not connected 💔💔
+2023-08-10T05:42:19.319Z info: database securely connected  🍀🍀🍀 
+2023-08-10T05:42:40.583Z info: database securely connected  🍀🍀🍀 
+2023-08-10T05:43:27.132Z info: database securely connected  🍀🍀🍀 
+2023-08-10T08:21:54.371Z error: database not connected 💔💔
+2023-08-10T08:30:24.762Z error: database not connected 💔💔
+2023-08-10T19:25:10.459Z info: info
+2023-08-10T19:25:39.955Z info: info
+2023-08-10T19:25:40.056Z error: database not connected 💔💔
+2023-08-10T19:26:02.813Z info: info
+2023-08-10T19:28:48.464Z info: info
+2023-08-10T19:28:48.552Z error: database not connected 💔💔
+2023-08-10T19:29:11.855Z info: info
+2023-08-10T19:29:11.991Z error: database not connected 💔💔
+2023-08-10T19:29:28.669Z info: info
+2023-08-10T19:30:18.899Z info: info
+2023-08-10T19:30:37.701Z info:  server connected succcssfully: http://localhost:5000/
+2023-08-10T19:30:54.145Z info:  server connected succcssfully: http://localhost:5000/
+2023-08-10T19:30:56.747Z info: database securely connected  🍀🍀🍀 
+2023-08-10T19:32:11.956Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T19:32:14.348Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T19:36:50.238Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T19:36:50.332Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T19:39:15.796Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T19:39:20.056Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T19:48:01.216Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T19:48:01.280Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T19:58:01.639Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T19:58:06.808Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T19:59:14.554Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T19:59:17.497Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T20:02:09.118Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:02:12.940Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T20:04:50.375Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:04:50.515Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T20:05:16.965Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:05:20.408Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T20:07:36.942Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:07:36.998Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T20:08:03.470Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:08:05.774Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T20:09:45.773Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:09:50.039Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T20:10:12.150Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:10:12.666Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T20:17:02.082Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:17:02.299Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T20:18:26.123Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:18:37.678Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T20:20:09.472Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:20:09.670Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T20:22:17.952Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:22:20.800Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T20:22:42.079Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:22:44.630Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T20:24:06.370Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:24:08.940Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T20:24:28.188Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:24:30.673Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T20:24:44.373Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:24:46.833Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T20:28:17.904Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:28:22.350Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T20:56:26.370Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T20:56:31.913Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:09:09.309Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:09:13.028Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:09:21.732Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:09:24.203Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:10:21.267Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:10:24.354Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:11:54.743Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:11:58.807Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:13:06.345Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:13:09.111Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:18:06.942Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:18:09.414Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:18:38.988Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:18:41.402Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:19:20.923Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:19:24.155Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:22:31.121Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:22:33.853Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:25:24.826Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:25:24.882Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T21:26:21.318Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:26:21.403Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T21:27:09.995Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:27:12.491Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:29:58.683Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:29:58.763Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T21:30:31.039Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:30:34.194Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:30:59.265Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:31:01.810Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:32:40.590Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:32:40.939Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T21:38:42.321Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:38:42.413Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T21:41:10.684Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:41:10.742Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T21:42:24.510Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:42:31.680Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:44:35.464Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:44:38.190Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T21:48:30.637Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T21:48:33.197Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:01:01.694Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:01:04.685Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:04:34.004Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:04:36.477Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:05:03.918Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:05:18.788Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:07:20.144Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:07:26.168Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:07:37.271Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:07:37.395Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T22:07:47.498Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:07:47.521Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T22:12:42.620Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:12:46.458Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:14:27.935Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:14:30.792Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:14:38.225Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:14:40.794Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:15:03.503Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:15:06.237Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:15:24.743Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:15:27.668Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:18:18.725Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:18:21.948Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:22:50.265Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:22:53.944Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:32:04.008Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:32:04.085Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T22:34:32.074Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:34:36.850Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:38:13.219Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:38:16.061Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:39:06.263Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:39:09.049Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:42:44.767Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:42:48.051Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:43:11.626Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:43:14.117Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:43:27.919Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:43:30.689Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:44:05.805Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:44:08.632Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:44:50.149Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:44:52.553Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:45:05.984Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:45:10.046Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:46:13.635Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:46:15.923Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:46:53.049Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:46:55.389Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:48:18.080Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:48:18.221Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T22:54:29.312Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:54:29.384Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-10T22:56:35.635Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:56:38.436Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:57:09.180Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:57:11.907Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:58:51.365Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:58:53.882Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T22:59:44.519Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T22:59:47.095Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T23:02:29.648Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T23:02:33.173Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T23:04:22.289Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T23:04:24.769Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T23:04:55.547Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T23:04:57.718Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T23:08:14.909Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T23:08:17.402Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-10T23:10:22.162Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-10T23:10:22.262Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-11T05:23:46.637Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T05:23:50.821Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T05:48:01.368Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T05:48:04.297Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T05:48:34.128Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T05:48:36.897Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T05:51:08.273Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T05:51:10.962Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T05:53:09.229Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T05:53:11.633Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T05:56:09.866Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T05:56:09.960Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-11T05:59:04.524Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T05:59:08.170Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:01:24.878Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:01:28.354Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:02:28.419Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:02:31.980Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:02:59.573Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:03:01.972Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:04:01.483Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:04:03.954Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:04:17.058Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:04:19.382Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:05:22.864Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:05:25.231Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:05:52.960Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:05:55.262Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:06:27.415Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:06:30.205Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:07:12.493Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:07:15.058Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:07:33.115Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:07:35.958Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:10:10.311Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:10:14.327Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:10:29.858Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:10:32.221Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:25:32.809Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:25:32.942Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-11T06:26:59.926Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:27:00.008Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-11T06:30:44.794Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:30:47.549Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:31:56.774Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:31:59.490Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:32:49.946Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:32:52.536Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:32:58.799Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:33:02.582Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:33:33.208Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:33:35.788Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:33:44.404Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:33:47.471Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:34:39.382Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:34:42.114Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:35:08.017Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:35:10.424Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T06:47:17.061Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T06:47:20.527Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T07:17:10.017Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T07:17:13.835Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T07:18:49.790Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T07:18:54.141Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T07:19:55.055Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T07:19:57.485Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T07:20:43.803Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T07:20:47.080Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T07:21:12.565Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T07:21:15.174Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T07:22:11.212Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T07:22:14.092Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T07:22:36.025Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T07:22:39.954Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T07:24:28.703Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T07:24:31.329Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T07:25:12.796Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T07:25:15.612Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T07:28:28.346Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T07:28:30.982Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T09:01:03.143Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-11T09:10:56.187Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T09:10:59.331Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T09:29:52.807Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T09:29:55.870Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T09:44:48.935Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T09:44:52.042Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T09:47:35.063Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T09:47:37.811Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T09:49:38.035Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T09:49:40.526Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T09:50:20.036Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T09:50:23.453Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T09:53:37.647Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T09:53:40.097Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T10:20:52.973Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T10:20:55.760Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T10:30:34.266Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T10:30:42.553Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T10:43:01.602Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T10:43:04.469Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T10:46:24.250Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T10:46:27.271Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T10:55:08.911Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T10:55:11.382Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T10:58:22.418Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T10:58:22.466Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-11T10:58:41.009Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T10:58:43.511Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T10:59:31.950Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T10:59:34.613Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T11:00:05.923Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T11:00:08.230Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T11:01:56.350Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T11:01:59.153Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T11:04:12.772Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T11:04:15.166Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T11:06:39.227Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T11:06:41.869Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T11:06:50.219Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T11:06:53.095Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T11:13:23.980Z [32minfo[39m: [32m server connected succcssfully: http://localhost:5000/[39m
+2023-08-11T11:13:26.386Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-11T21:51:04.848Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-11T21:51:08.645Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-11T21:51:34.824Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-11T21:51:34.879Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-11T21:52:12.240Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-11T21:52:19.899Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T06:14:10.621Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T06:22:00.233Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T06:22:03.065Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T06:34:27.126Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T06:34:35.543Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:07:33.109Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:07:35.860Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:12:50.500Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:12:54.250Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T07:13:22.713Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:13:25.330Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:19:09.301Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:19:11.870Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:21:10.134Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:21:12.771Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:22:39.267Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:22:41.928Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:24:15.725Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:24:18.337Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:24:46.677Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:24:49.195Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:32:23.642Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:32:29.727Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:34:10.096Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:34:12.837Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:36:28.618Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:36:31.705Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:38:12.991Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:38:15.629Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:40:23.807Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:40:26.644Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:41:49.329Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:41:52.061Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:43:31.124Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:43:33.965Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:45:35.136Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:45:37.864Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:49:24.968Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:49:27.840Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:54:32.128Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:54:32.224Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T07:54:53.169Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:54:55.784Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:59:23.433Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:59:26.392Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T07:59:45.803Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T07:59:48.112Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:01:03.304Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:01:06.023Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:01:48.533Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:01:51.296Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:02:35.582Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:02:38.179Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:04:41.833Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:04:44.716Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:05:18.137Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:05:20.891Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:05:42.440Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:05:45.084Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:09:33.553Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:09:36.413Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:10:50.258Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:11:00.670Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:11:04.278Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:12:02.780Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:12:06.948Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:13:51.331Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:13:54.574Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:16:43.117Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:16:46.089Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:19:53.783Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:19:56.805Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:21:22.251Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:21:24.710Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:22:00.801Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:22:00.863Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T08:22:14.534Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:22:17.449Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:23:13.066Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:23:15.597Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:27:42.230Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:27:44.765Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:28:42.522Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:28:45.118Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:29:10.128Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:29:12.638Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:32:05.503Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:32:05.728Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T08:32:47.249Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:32:49.906Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:34:31.179Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:34:33.857Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:49:05.246Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:49:08.607Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:51:36.592Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:51:39.154Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:53:05.231Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:53:08.058Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:54:22.861Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:54:26.464Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T08:54:54.030Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:54:56.789Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T08:55:17.439Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T08:55:20.033Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T09:03:42.703Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T09:03:45.253Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T09:51:40.385Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T09:51:44.365Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T09:58:12.730Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T09:58:24.499Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T10:03:48.765Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:03:51.605Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T10:05:36.215Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:05:37.697Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T10:07:46.713Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:07:49.319Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T10:08:43.003Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:08:45.804Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T10:22:45.747Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:22:48.503Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T10:24:03.400Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:24:06.206Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T10:25:14.024Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:25:14.222Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T10:26:41.558Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:26:41.611Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T10:26:57.633Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:26:57.863Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T10:27:36.273Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:27:49.605Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:27:52.356Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T10:31:20.863Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:31:23.633Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T10:33:09.724Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:33:09.772Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T10:33:26.864Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:33:29.713Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T10:39:59.440Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:40:04.528Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T10:44:15.925Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:44:15.963Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T10:44:26.689Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:44:26.737Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T10:44:35.792Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:44:38.260Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T10:48:07.691Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T10:51:52.084Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T10:51:52.720Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T10:59:57.921Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T11:00:00.484Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T11:01:01.835Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T11:01:04.291Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T11:01:19.670Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T11:01:19.736Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T11:02:07.044Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T11:02:07.236Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T11:07:42.677Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T11:07:50.693Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T11:11:03.071Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T11:11:05.759Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T11:11:58.005Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T11:12:00.377Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T11:14:57.346Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T11:14:57.510Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T11:37:47.351Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T11:37:47.743Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T11:38:00.563Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T11:38:02.856Z [32minfo[39m: [32mdatabase securely connected  🍀🍀🍀 [39m
+2023-08-12T11:46:41.284Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T11:46:41.466Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T11:49:22.491Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T11:49:27.617Z [31merror[39m: [31mdatabase not connected 💔💔[39m
+2023-08-12T11:49:47.745Z [32minfo[39m: [32m server connected succssfully: http://localhost:5000/[39m
+2023-08-12T11:49:49.018Z [31merror[39m: [31mdatabase not connected 💔💔[39m

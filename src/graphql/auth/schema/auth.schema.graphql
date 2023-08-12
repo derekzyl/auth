@@ -1,0 +1,48 @@
+type User {
+  id: ID!
+  username: String!
+  password: String!
+  secretKey: String
+}
+type Query {
+  getUser(username: String): User
+}
+type Error {
+  error: String
+}
+type Token {
+  token: String
+}
+type LoginResponse {
+  message: String
+  data: Token
+  success: Boolean
+  error: Error
+}
+type Qr {
+  qr: String
+}
+type QrResponse {
+  message: String
+  data: Qr
+  success: Boolean
+  error: Error
+}
+type PwdCh {
+  message: String
+}
+type PasswordChangeResponse {
+  message: String
+  data: PwdCh
+  success: Boolean
+  error: Error
+}
+
+type Mutation {
+  Register(email: String!, password: String!): LoginResponse
+  GenerateQrCode(username: String): QrResponse
+  Login(email: String!, password: String!): LoginResponse
+  ChangePassword(password: String, new_password: String): PasswordChangeResponse
+
+  LoginWithOtp(email: String!, password: String!, otp: String!): LoginResponse
+}
