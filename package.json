@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "nodemon server.ts",
     "build": "tsc",
-    "start": "node ./dist/server.js",
+    "start:dev": "build && nodemon ./dist/server.js",
+    "start:prod": "build && nodemon ./dist/server.js",
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
