@@ -9,7 +9,7 @@ This documentation provides step-by-step instructions on how to install, set up,
 3. [Configuration](#configuration)
 4. [Running the Application](#running-the-application)
 5. [Usage](#usage)
-6. [Security Considerations](security-considerations   )
+6. [Security Considerations](#security-considerations)
 7. [Conclusion](#conclusion)
 
 ### **Prerequisites**
